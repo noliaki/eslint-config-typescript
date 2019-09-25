@@ -1,0 +1,28 @@
+{
+  "name": "@noliaki/eslint-config-typescript",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noliaki/eslint-config-typescript.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/noliaki/eslint-config-typescript/issues"
+  },
+  "homepage": "https://github.com/noliaki/eslint-config-typescript#readme",
+  "dependencies": {
+    "@noliaki/eslint-config": "^0.2.0",
+    "@typescript-eslint/eslint-plugin": "^2.3.1",
+    "@typescript-eslint/parser": "^2.3.1"
+  },
+  "devDependencies": {
+    "eslint": "^6.4.0",
+    "typescript": "^3.6.3"
+  }
+}
