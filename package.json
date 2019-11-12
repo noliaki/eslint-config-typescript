@@ -1,6 +1,6 @@
 {
   "name": "@noliaki/eslint-config-typescript",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -18,12 +18,12 @@
   "homepage": "https://github.com/noliaki/eslint-config-typescript#readme",
   "dependencies": {
     "@noliaki/eslint-config": "^0.2.0",
-    "@typescript-eslint/eslint-plugin": "^2.3.1",
-    "@typescript-eslint/parser": "^2.3.1"
+    "@typescript-eslint/eslint-plugin": "^2.7.0",
+    "@typescript-eslint/parser": "^2.7.0"
   },
   "devDependencies": {
-    "eslint": "^6.4.0",
-    "typescript": "^3.6.3"
+    "eslint": "^6.6.0",
+    "typescript": "^3.7.2"
   },
   "publishConfig": {
     "access": "public"
